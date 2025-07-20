@@ -55,8 +55,8 @@ Este é o desenvolvimento do meu primeiro projeto fullstack, com foco em criar u
 
 ## 👨‍💻 Autor
 
-[Artur Rochel]
-[Github:](https://github.com/ArturRochel)
-[Linkedin:](https://www.linkedin.com/in/artur-rochel-950361184/)
-[Instagram:](https://www.instagram.com/artur.rochel/)
+Artur Rochel
+[Github](https://github.com/ArturRochel)
+[Linkedin](https://www.linkedin.com/in/artur-rochel-950361184/)
+[Instagram](https://www.instagram.com/artur.rochel/)
 
